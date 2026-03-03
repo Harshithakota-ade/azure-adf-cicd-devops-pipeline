@@ -1,0 +1,7 @@
+{
+  "factoryName": { "value": "adf-dev-harshitha" },
+  "location": { "value": "centralindia" },
+  "storageAccountUrl": { "value": "https://stdevharshitha.dfs.core.windows.net/" },
+  "sqlServerName": { "value": "sql-dev-harshitha" },
+  "sqlDatabaseName": { "value": "db_dev" }
+}
